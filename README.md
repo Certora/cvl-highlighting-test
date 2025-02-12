@@ -1,2 +1,2 @@
 # cvl-highlighting-test
-This repo tests cvl highlighting on GitHub
+This repo tests identifying `.spec` files as Solidity on GitHub
