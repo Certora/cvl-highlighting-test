@@ -1,2 +1,2 @@
 *.spec linguist-language=Solidity
-*.spec linguist-language=JSON
+*.conf linguist-language=JSON
